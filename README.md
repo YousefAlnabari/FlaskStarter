@@ -35,6 +35,8 @@ A minimal, scalable Flask project structure for quick starts.
 └── run.py
 ```
 
+![diagram](https://raw.githubusercontent.com/YousefAlnabari/FlaskStarter/main/diagram.png)
+
 ## 🛠️ Setup Instructions
 
 ### macOS / Linux
